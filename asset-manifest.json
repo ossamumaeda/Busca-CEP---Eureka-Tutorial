@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Busca-CEP---Eureka-Tutorial/static/css/main.073c9b0a.css",
-    "main.js": "/Busca-CEP---Eureka-Tutorial/static/js/main.1877e192.js",
-    "static/js/787.34b4edd7.chunk.js": "/Busca-CEP---Eureka-Tutorial/static/js/787.34b4edd7.chunk.js",
-    "index.html": "/Busca-CEP---Eureka-Tutorial/index.html",
-    "main.073c9b0a.css.map": "/Busca-CEP---Eureka-Tutorial/static/css/main.073c9b0a.css.map",
-    "main.1877e192.js.map": "/Busca-CEP---Eureka-Tutorial/static/js/main.1877e192.js.map",
-    "787.34b4edd7.chunk.js.map": "/Busca-CEP---Eureka-Tutorial/static/js/787.34b4edd7.chunk.js.map"
+    "main.css": "/consulta-cep/static/css/main.073c9b0a.css",
+    "main.js": "/consulta-cep/static/js/main.20b50880.js",
+    "static/js/787.34b4edd7.chunk.js": "/consulta-cep/static/js/787.34b4edd7.chunk.js",
+    "index.html": "/consulta-cep/index.html",
+    "main.073c9b0a.css.map": "/consulta-cep/static/css/main.073c9b0a.css.map",
+    "main.20b50880.js.map": "/consulta-cep/static/js/main.20b50880.js.map",
+    "787.34b4edd7.chunk.js.map": "/consulta-cep/static/js/787.34b4edd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1877e192.js"
+    "static/js/main.20b50880.js"
   ]
 }
