@@ -1,6 +1,6 @@
 {
   "name": "consulta-cep",
-  "homepage": "https://ossamumaeda.github.io/consulta-cep/",
+  "homepage": "consult-cep/",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
