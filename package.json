@@ -1,6 +1,6 @@
 {
   "name": "consulta-cep",
-  "homepage": "consult-cep/",
+  "homepage": "consulta-cep/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
